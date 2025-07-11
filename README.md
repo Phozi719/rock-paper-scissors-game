@@ -1,13 +1,14 @@
-<h1 align="center">Hi, I’m Phoz! 👋🏽</h1>
+<h1 align="center">Hi, I’m Phozisa! 👋🏽</h1>
 
 <p align="center">
   <img src="profile.jpg" width="120" style="border-radius: 50%" alt="Profile photo"/><br/>
 
-  🎨 Aspiring Frontend Dev | 👩🏽‍💻 Tech Explorer | 🎮 Lover of Fun Projects
+  👩🏽‍💻 Software Dev • 📊 Data Enthusiast • 🎨 UI/UX Explorer | Open to Internships
+
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+  <a href="https://www.linkedin.com/in/phozisa-mke-aa5653349/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://your-cv-link.com">
